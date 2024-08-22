@@ -6,4 +6,5 @@ It was found that the air quality was the worst during the morning rush hour, an
 
 There needs to be a more comprehensive spatial analysis to understand how proximity to Lake Shore Drive influences the air quality. Due to the nature of how the data was collected and time constraints, this analysis was not conducted.
 
-Video made about Chicago air quality: [https://youtu.be/wn_g-Iv4otY](url).
+Video made about Chicago air quality [here](https://youtu.be/wn_g-Iv4otY).
+
